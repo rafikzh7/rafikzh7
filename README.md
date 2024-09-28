@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on some web project
-- 📫 How to reach me rtenes7@gmail.com
+- 📫 How to reach me rafikzahra247@gmail.com
 
 <!---
 rafikzh7/rafikzh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
